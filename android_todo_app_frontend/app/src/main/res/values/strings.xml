@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Task Organizer</string>
+
+    <string name="add_task">Add task</string>
+    <string name="add_task_title">Add Task</string>
+    <string name="edit_task_title">Edit Task</string>
+
+    <string name="task_title">Title</string>
+    <string name="task_notes">Notes (optional)</string>
+    <string name="completed">Completed</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="delete_task">Delete task</string>
+
+    <string name="validation_title_required">Please enter a title.</string>
+
+    <string name="task_added">Task added</string>
+    <string name="task_updated">Task updated</string>
+    <string name="task_deleted">Task deleted</string>
+</resources>
